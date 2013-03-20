@@ -23,10 +23,6 @@ Java Development Kit (JDK) [Download](http://www.oracle.com/technetwork/java/jav
 
 Android SDK [Download](http://developer.android.com/sdk/index.html)
 
-## Check out the project
-See here: https://code.google.com/a/google.com/p/hellomap/source/checkout
-You may use the in-built git clients in Eclipse and IntelliJ.
-
 # Eclipse
 
 ## Download Eclipse
