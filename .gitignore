@@ -1,0 +1,6 @@
+local.properties
+bin
+gen
+out
+.settings
+.idea
