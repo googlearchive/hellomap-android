@@ -1,5 +1,22 @@
 A fast way to get started with the [Google Maps Android API v2](http://developers.google.com/maps/documentation/android).
 
+# TOC
+
+  * [Requirements](#requirements)
+  * [Check out the project](#check-out-the-project)
+  * [Eclipse](#eclipse)
+    * [Download Eclipse](#download-eclipse)
+    * [Import the project to your workspace](#import-the-project-to-your-workspace)
+    * [Add your API key](#add-your-api-key)
+    * [Run the app](#run-the-app)
+    * [Troubleshooting](#troubleshooting)
+  * [IntelliJ](#intellij)
+    * [Download IntelliJ](#download-intellij)
+    * [Import the project](#import-the-project)
+    * [Add your API key](#add-your-api-key-1)
+    * [Run the app](#run-the-app-1)
+    * [Troubleshooting](#troubleshooting-1)
+
 # Requirements
 
 Java Development Kit (JDK) [Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
