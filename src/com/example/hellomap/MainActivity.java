@@ -22,9 +22,10 @@ public class MainActivity extends FragmentActivity {
     }
 
     private void setUpMapIfNeeded() {
-        if (mMap == null) {
-            mMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
+        if (mMap != null) {
+            return;
         }
+        mMap = ((SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map)).getMap();
         if (mMap == null) {
             return;
         }
