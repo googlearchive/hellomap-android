@@ -9,11 +9,11 @@
             android:minSdkVersion="4"
             android:targetSdkVersion="17"/>
 
-    <!-- TODO: Replace "com.example" with your package name -->
+    <!-- TODO: Replace "com.example.hellomap" with your package name -->
     <permission
-            android:name="com.example.permission.MAPS_RECEIVE"
+            android:name="com.example.hellomap.permission.MAPS_RECEIVE"
             android:protectionLevel="signature"/>
-    <uses-permission android:name="com.example.permission.MAPS_RECEIVE"/>
+    <uses-permission android:name="com.example.hellomap.permission.MAPS_RECEIVE"/>
 
     <!-- The following four permissions -->
     <uses-permission android:name="android.permission.INTERNET"/>
