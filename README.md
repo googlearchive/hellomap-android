@@ -1,5 +1,10 @@
 A fast way to get started with the [Google Maps Android API v2](http://developers.google.com/maps/documentation/android).
 
+## Current versions:
+
+Google Play Services, revision 7
+Android Support Library, revision 13
+
 # TOC
 
   * [Requirements](#requirements)
