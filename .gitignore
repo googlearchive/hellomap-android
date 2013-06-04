@@ -2,5 +2,7 @@ local.properties
 bin
 gen
 out
+build
+.gradle
 .settings
 .idea
