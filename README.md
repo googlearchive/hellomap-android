@@ -101,3 +101,7 @@ Choose the "Community Edition"
 
 ### I see a grey map
 Follow the instructions under "Add your API key" and try again.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/googlemaps/hellomap-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
