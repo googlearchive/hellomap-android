@@ -1,5 +1,5 @@
 A fast way to get started with the [Google Maps Android API v2](http://developers.google.com/maps/documentation/android).
-![Analytics](https://ga-beacon.appspot.com/UA-12846745-20/hellomap-android/readme?pixel)
+![Analytics](https://maps-ga-beacon.appspot.com/UA-12846745-20/hellomap-android/readme?pixel)
 
 #### Current version of library dependencies:
 
