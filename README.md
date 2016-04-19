@@ -11,9 +11,9 @@ A fast way to get started with the [Google Maps Android API v2](http://developer
   * [Android Studio](#android-studio)
     * [Download Android Studio](#download-android-studio)
     * [Open the project](#open-the-project)
-    * [Add your API key](#add-your-api-key-1)
-    * [Run the app](#run-the-app-1)
-    * [Troubleshooting](#troubleshooting-1)
+    * [Add your API key](#add-your-api-key)
+    * [Run the app](#run-the-app)
+    * [Troubleshooting](#troubleshooting)
 
 # Requirements
 
@@ -28,9 +28,8 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
 
 ## Open the project
   1. On the welcome screen, select "Open an existing Android Studio project" or if you have a project open, choose "File->Open...""
-  2. Choose Android > Existing Android Code Into Workspace
-  3. Navigate to the checked out project
-  4. Press "Ok"
+  2. Navigate to the checked out project
+  3. Press "Ok"
 
 ## Add your API key
   1. Navigate to the AndroidManifest.xml file
@@ -44,20 +43,6 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
 ## Troubleshooting
 ### I see a grey map
 Follow the instructions under "Add your API key" and try again.
-
-### "Please specify Android SDK"
-  1. Click "New..."
-  2. Choose "Android SDK"
-  3. Navigate to the Android SDK's "sdk" directory, press "Choose"
-
-###  "No Java SDK of appropriate version found"
-  1. Click "New..."
-  2. Choose "JDK"
-  3. Navigate to the JDK's home directory. For OS X, this is at `/Library/Java/JavaVirtualMachines/jdk.../Contents/Home`
-  4. Press "Choose"
-  5. If you are prompted with "Set up created SDK on project?", press No.
-  6. Follow the instructions above
-  7. If you are prompted with "Set up created SDK on project?", press Yes.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/googlemaps/hellomap-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
