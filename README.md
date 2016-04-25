@@ -32,9 +32,9 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
   3. Press "Ok"
 
 ## Add your API key
-  1. Navigate to the AndroidManifest.xml file
-  2. Click the "AndroidManifest.xml" tab, next to "Instrumentation", to see the XML view.
-  3. Replace "your_api_key" with an API key generated using [these instructions](https://developers.google.com/maps/documentation/android/start#the_google_maps_api_key)
+  1. Navigate to google_maps_api.xml
+  2. Replace "your_api_key" with an API key generated using [these instructions]
+  (https://developers.google.com/maps/documentation/android/start#the_google_maps_api_key)
 
 ## Run the app
   1. Ensure your phone is in plugged in, developer mode enabled and screen unlocked
@@ -42,7 +42,9 @@ Download Android Studio (http://developer.android.com/sdk/index.html)
 
 ## Troubleshooting
 ### I see a grey map
-Follow the instructions under "Add your API key" and try again.
+Follow the instructions under "Add your API key" and try again. The logcat output will also
+provide useful information if there is a configuration issue with the package name, signing
+certificate or API key.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/googlemaps/hellomap-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
