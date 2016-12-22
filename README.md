@@ -1,3 +1,7 @@
+**Please note**: This repository is not currently maintained, and is kept for historical purpose only. You can find an up to date tutorial here: https://github.com/googlemaps/android-samples/tree/master/tutorials/MapWithMarker
+
+--------------------------------------------
+
 A fast way to get started with the [Google Maps Android API v2](http://developers.google.com/maps/documentation/android).
 ![Analytics](https://maps-ga-beacon.appspot.com/UA-12846745-20/hellomap-android/readme?pixel)
 
